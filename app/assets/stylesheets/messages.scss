@@ -1,3 +1,28 @@
 // Place all the styles related to the messages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+p {
+     font-size: 17px;
+     text-align: left;
+     vertical-align: middle;
+     padding: 12px 0px 0px 0px;
+     font-family: "cursive", cursive;
+}
+
+.panel-body {
+    font-size: 14px;
+    margin: 10px;
+    font-family: "和文フォント", 'ヒラギノ角ゴ Pro W3';
+}
+
+.A {
+    font-size: 14px;
+    font-family: "和文フォント", 'ヒラギノ角ゴ Pro W3';
+    margin: 10px 0px 0px 0px;
+}
+
+.B {
+    display: inline-block;
+    margin: 0px 0px 100px 10px;
+}
